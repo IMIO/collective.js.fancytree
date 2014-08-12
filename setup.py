@@ -35,7 +35,8 @@ setup(name='collective.js.fancytree',
       zip_safe=False,
       install_requires=[
           'setuptools',
-          'Plone'
+          'Plone',
+          'collective.js.jqueryui'
       ],
       extras_require={
           'test': [

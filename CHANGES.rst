@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.2 (unreleased)
+0.2 (2014-08-12)
 ----------------
 
 - Adapted MANIFEST.in so every files are taken into account

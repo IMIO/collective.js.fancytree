@@ -9,13 +9,46 @@
     directory="resources"
     />
 
+  <browser:resourceDirectory
+    name="collective.js.fancytree.theme-vista"
+    directory="resources/theme-vista"
+    />
+
+  <browser:resourceDirectory
+    name="collective.js.fancytree.theme-lion"
+    directory="resources/theme-lion"
+    />
+
   <genericsetup:registerProfile
       name="default"
-      title="collective.js.fancytree"
+      title="Fancytree jQuery plugin"
       directory="profiles/default"
       description='Extension profile for collective.js.fancytree.'
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
-</configure>
+  <genericsetup:registerProfile
+      name="all"
+      title="Fancytree jQuery plugin with all extensions"
+      directory="profiles/all"
+      description='Extension profile for collective.js.fancytree.'
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
 
+  <genericsetup:registerProfile
+      name="theme-lion"
+      title="Lion theme for Fancytree"
+      directory="profiles/theme-lion"
+      description='Extension profile for collective.js.fancytree.'
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+  <genericsetup:registerProfile
+      name="theme-vista"
+      title="Vista theme for Fancytree"
+      directory="profiles/theme-vista"
+      description='Extension profile for collective.js.fancytree.'
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+</configure>

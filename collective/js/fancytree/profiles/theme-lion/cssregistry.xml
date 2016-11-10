@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <object name="portal_css" meta_type="Stylesheets Registry">
 
- <stylesheet title="imio.actionspanel CSS styles"
+ <stylesheet title="Fancy tree lion theme css"
              cacheable="True"
              compression="safe"
              cookable="True"
@@ -11,6 +11,6 @@
              rendering="import"
              expression=""
              applyPrefix="1"
-             id="++resource++collective.js.fancytree/ui.fancytree.css"/>
+             id="++resource++collective.js.fancytree.theme-lion/ui.fancytree.css"/>
 
 </object>

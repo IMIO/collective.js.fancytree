@@ -37,7 +37,7 @@
 
   <genericsetup:registerProfile
       name="theme-lion"
-      title="Lion theme for Fancytree"
+      title="Fancytree theme: Lion"
       directory="profiles/theme-lion"
       description='Extension profile for collective.js.fancytree.'
       provides="Products.GenericSetup.interfaces.EXTENSION"
@@ -45,7 +45,7 @@
 
   <genericsetup:registerProfile
       name="theme-vista"
-      title="Vista theme for Fancytree"
+      title="Fancytree theme: Vista"
       directory="profiles/theme-vista"
       description='Extension profile for collective.js.fancytree.'
       provides="Products.GenericSetup.interfaces.EXTENSION"

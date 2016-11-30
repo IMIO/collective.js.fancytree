@@ -1,10 +1,11 @@
 Changelog
 =========
 
-0.3 (unreleased)
-----------------
+2.19.0.0 (unreleased)
+---------------------
 
-- Nothing changed yet.
+- Upgrade FancyTree to 2.19.0
+- Included themes
 
 
 0.2 (2014-08-12)

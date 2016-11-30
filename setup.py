@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-version = '0.3.dev0'
+version = '2.19.0.0'
 
 from setuptools import setup, find_packages
 
@@ -30,7 +30,7 @@ setup(name='collective.js.fancytree',
       author_email='support@imio.be',
       url='https://github.com/imio/',
       license='gpl',
-      packages=find_packages('src', exclude=['ez_setup']),
+      packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['collective', 'collective.js'],
       include_package_data=True,
       zip_safe=False,

@@ -1,7 +1,7 @@
 Changelog
 =========
 
-2.19.0.0 (unreleased)
+2.19.0.0 (2016-12-01)
 ---------------------
 
 - Upgrade FancyTree to 2.19.0

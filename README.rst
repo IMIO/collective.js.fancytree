@@ -4,7 +4,7 @@ collective.js.fancytree
 Introduction
 ============
 
-This addon register Fancytree_ to Plone resource registry.
+This addon register Fancytree to Plone resource registry.
 
 version: 2.19.0
 
@@ -33,4 +33,5 @@ Credits
 
 - Gauthier BASTIEN <gauthier.bastien@imio.be>
 - Thomas DESVENAIN <thomas.desvenain@gmail.com>
-.. _Fancytree: https://github.com/mar10/fancytree
+- Fancytree: https://github.com/mar10/fancytree
+

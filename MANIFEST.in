@@ -1,4 +1,4 @@
-graft collective/
+graft collective
 global-exclude *pyc
 include *.rst
 include LICENSE

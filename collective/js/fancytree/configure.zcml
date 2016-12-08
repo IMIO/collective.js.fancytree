@@ -58,4 +58,11 @@
        handler=".upgrades.v1001"
        profile="collective.js.fancytree:default" />
 
+  <genericsetup:upgradeStep
+       title="Migration profile for collective.js.fancytree to 1002"
+       source="1001"
+       destination="1002"
+       handler=".upgrades.refresh_resources"
+       profile="collective.js.fancytree:default" />
+
 </configure>

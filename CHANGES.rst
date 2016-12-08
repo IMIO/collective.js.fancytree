@@ -1,17 +1,20 @@
 Changelog
 =========
 
-2.19.0.1 (unreleased)
+2.20.0.0 (unreleased)
 ---------------------
 
-- Nothing changed yet.
+- Upgrade FancyTree to 2.20.0
+  [thomasdesvenain]
 
 
 2.19.0.0 (2016-12-01)
 ---------------------
 
 - Upgrade FancyTree to 2.19.0
+  [thomasdesvenain]
 - Included themes
+  [thomasdesvenain]
 
 
 0.2 (2014-08-12)

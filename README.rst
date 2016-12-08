@@ -7,7 +7,7 @@ Introduction
 
 This addon register Fancytree to Plone resource registry.
 
-version: 2.19.0
+version: 2.20.0
 
 About Fancytree
 ===============

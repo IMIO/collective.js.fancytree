@@ -4,7 +4,11 @@ Changelog
 2.20.0.1 (unreleased)
 ---------------------
 
-- Nothing changed yet.
+- Avoid double include of fancytree, make sure only one of both
+  `++resource++collective.js.fancytree/jquery.fancytree-all.min.js` and
+  `++resource++collective.js.fancytree/jquery.fancytree-all.min.js` are
+  registred in portal_javascripts.
+  [gbastien]
 
 
 2.20.0.0 (2016-12-08)

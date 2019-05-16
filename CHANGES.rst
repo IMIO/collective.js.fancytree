@@ -1,7 +1,7 @@
 Changelog
 =========
 
-2.20.0.1 (unreleased)
+2.20.0.1 (2019-05-16)
 ---------------------
 
 - Avoid double include of fancytree, make sure only one of both
